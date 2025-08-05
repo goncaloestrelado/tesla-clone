@@ -1,5 +1,15 @@
-# TESLA WEBSITE 2022 CLONE
+# Tesla Clone
 
-## https://tesla-clone-gnestrelado.netlify.app/
+A React-based clone of the Tesla website featuring a responsive design and smooth animations.
 
-by Gonçalo Estrelado
+## Technologies Used
+
+- React 18
+- Redux Toolkit
+- Material-UI
+- Styled Components
+- React Reveal (animations)
+
+## Demo
+
+Visit the live demo: https://tesla-clone-gnestrelado.netlify.app/
